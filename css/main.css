@@ -1,0 +1,112 @@
+/*{outline: 1px solid red;}*/
+
+.menu-encabezado{
+	padding:20px;
+}
+.list-menu  li{
+	display: inline-block;
+	margin: 20px 50px;
+	font-family: "Latolight";
+}
+.list-menu a{
+	text-decoration: none;
+}
+
+.menu-encabezado h1{
+	font-family: "Latolight";
+}
+.bailarines{
+	background-image: url(../img/dance_1.jpg);
+	background-size: cover;	
+}
+.bailarines h1{
+	font-size: 50px;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+.bailarines p{
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 190px;
+	font-size: 13px;
+}
+.bailarines button{
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-bottom: 100px;
+	background-color: #09111C;
+	color: white;
+	border: #09111C;	
+}
+.frases{
+	background-image: url(../img/textura_2.jpg);
+	padding: 50px 160px;
+}
+.frases p{
+	font-size: 22px;
+}
+.frases img{
+	width: 100px;
+	margin-top: 10px;
+}
+.frases button{
+	background-color: #09111C;
+	width: 250px;
+	padding: 20px 10px;
+	display: block;
+	margin-left: 200px;
+}
+.instructores img{
+	background-image: url(../img/instructor_4.png);
+	width: 478px;
+	height: 
+}
+.frases-2{
+	background-image: url(../img/textura_2.jpg);
+	padding: 60px 100px;
+}
+.frases-2{
+	font-size: 34px;
+	 
+}
+.direccion{
+	background-color: #09111C;
+	padding: 40px; 
+}
+.direccion p{
+	padding-bottom: 20px;
+	font-size: 14px;
+}
+.list-direcciones li{
+	list-style: none;
+}
+.contacto{
+	padding: 20px;
+}
+input{
+	display: block;
+	width: 400px;
+	height: 50px;
+	margin-top: 10px;
+
+}
+.enviar{
+	width: 400px;
+	height: 50px;
+	background-color: #09111C;
+	color: white;
+}
+.mensaje{
+	height: 100px;
+}
+.contacto{
+	background-image: url(../img/shoes_!.jpg);
+	background-position: 100%;
+	background-size: auto;
+	background-repeat: no-repeat;
+
+}	
+.footer{
+	background-color: #09111C;
+	padding: 20px;
+}
